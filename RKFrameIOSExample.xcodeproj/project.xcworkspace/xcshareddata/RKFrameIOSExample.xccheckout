@@ -14,11 +14,11 @@
 		<string>https://github.com/mastersoftwaresolutions/MSSRKFrameIOS.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>RKFrameIOSExample/RKFrameIOSExample.xcodeproj</string>
+	<string>RKFrameIOSExample.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>9D0638578C7128DFBA7C1EB139365A12918BA2BC</key>
-		<string>../../..</string>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/mastersoftwaresolutions/MSSRKFrameIOS.git</string>
